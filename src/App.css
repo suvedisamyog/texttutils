@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    
+}
+body{
+    
+}
+.border{
+    border:2px solid red;
+    padding:10px;
+}
+.box{
+    border:1px solid rgb(171, 112, 112);
+    border-radius: 5px;
+}
+span{
+    cursor: pointer;
+    
+}
+span:hover{
+    /* color:rgb(228, 26, 134); */
+    color:red;
+     
+}
+.container{
+   
+    border:rgb(251,160,227);
+    
+}
